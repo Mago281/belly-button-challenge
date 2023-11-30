@@ -55,7 +55,7 @@ ________________________________________
 7.  Ensured that all the plots would be updated each time a new sample is selected.
 
 
-8.  Deployed my app to a free static page hosting service
+8.  Deployed my app to a free static page hosting service and selected Test Subject id: 1601
 
       ![image](https://github.com/Mago281/belly-button-challenge/assets/131424690/ce542777-6e1d-4c07-a886-db47f9105726)
 
