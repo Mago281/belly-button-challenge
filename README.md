@@ -27,7 +27,7 @@ ________________________________________
 
       - Used `otu_labels` as the hovertext for the chart.
 
-      ![image](https://github.com/Mago281/belly-button-challenge/assets/131424690/cfbcad51-a054-49c1-8e0b-64bc14b2e2b2)
+         ![image](https://github.com/Mago281/belly-button-challenge/assets/131424690/cfbcad51-a054-49c1-8e0b-64bc14b2e2b2) <img src="https://github.com/Mago281/belly-button-challenge/assets/131424690/cfbcad51-a054-49c1-8e0b-64bc14b2e2b2" width="300" height="200">
 
 
 3.  Created a bubble chart that displayed each sample.
