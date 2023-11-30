@@ -4,6 +4,9 @@
 ![image](https://github.com/Mago281/belly-button-challenge/assets/131424690/83e74821-2b90-4f29-8770-724c4c0fc4b5)
 ![image](https://github.com/Mago281/belly-button-challenge/assets/131424690/000aa189-384c-418a-9647-823157672af6)
 
+
+![image](https://github.com/Mago281/belly-button-challenge/assets/131424690/1b52e145-155b-4811-9653-36c3fdfa7ead)
+
 ---
 
 ## Background
