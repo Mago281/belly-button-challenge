@@ -27,8 +27,9 @@ ________________________________________
 
       - Used `otu_labels` as the hovertext for the chart.
 
-         ![image](https://github.com/Mago281/belly-button-challenge/assets/131424690/cfbcad51-a054-49c1-8e0b-64bc14b2e2b2) <img src="https://github.com/Mago281/belly-button-challenge/assets/131424690/cfbcad51-a054-49c1-8e0b-64bc14b2e2b2" width="300" height="200">
+        <img src="https://github.com/Mago281/belly-button-challenge/assets/131424690/cfbcad51-a054-49c1-8e0b-64bc14b2e2b2" width="300" height="200">
 
+   <img src="https://github.com/EvaB5050/Diabetes-Prediction-Analysis/assets/131424690/d5357f1d-71f1-4cbc-a6fa-bdb9052af65b" width="300" height="200">
 
 3.  Created a bubble chart that displayed each sample.
       - Used `otu_ids` for the x values.
