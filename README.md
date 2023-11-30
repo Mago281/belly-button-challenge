@@ -37,7 +37,7 @@ ________________________________________
       - Used `otu_ids` for the marker colors.
       - Used `otu_labels` for the text values.
 
-        <img src="[https://github.com/Mago281/belly-button-challenge/assets/ae1b7217-f98c-43ec-ac1f-1be3e04bce53" width="300" height="350">
+        <img src="https://github.com/Mago281/belly-button-challenge/assets/ae1b7217-f98c-43ec-ac1f-1be3e04bce53" width="300" height="350">
         
       ![image](https://github.com/Mago281/belly-button-challenge/assets/131424690/ae1b7217-f98c-43ec-ac1f-1be3e04bce53)
 
@@ -46,13 +46,16 @@ ________________________________________
 
 
 5.  Displayed each key-value pair from the metadata JSON object on the page
+
+      <img src="https://github.com/Mago281/belly-button-challenge/assets/131424690/cfbcad51-a054-49c1-8e0b-64bc14b2e2b2" width="300" height="350">
+      
       ![image](https://github.com/Mago281/belly-button-challenge/assets/131424690/bce0f260-137b-4034-8321-a057c5859563)
 
 
-6.  Ensured that all the plots would be updated each time a new sample is selected.
+7.  Ensured that all the plots would be updated each time a new sample is selected.
 
 
-7.  Deployed my app to a free static page hosting service
+8.  Deployed my app to a free static page hosting service
 
       ![image](https://github.com/Mago281/belly-button-challenge/assets/131424690/ce542777-6e1d-4c07-a886-db47f9105726)
 
