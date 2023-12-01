@@ -28,8 +28,8 @@ ________________________________________
       - Used `otu_labels` as the hovertext for the chart.
 
       The horizontal bar chart with a dropdown menu below relates to Test Subject ID: 1490
-          
-      ![image](https://github.com/Mago281/belly-button-challenge/assets/131424690/aba6a816-4914-4322-bbfa-f9a2b6465aa0)
+
+       <img src="https://github.com/Mago281/belly-button-challenge/assets/131424690/a9a02912-7673-4bb1-84cb-74492ee195db" width="320" height="320">
 
     
 3.  Created a bubble chart that displayed each sample.
@@ -56,14 +56,13 @@ ________________________________________
     <img src="https://github.com/Mago281/belly-button-challenge/assets/131424690/af9dde91-e798-4767-94aa-da8ffc2a2506" width="500" height="300" />
 
 
-7.  Ensured that all the plots would be updated each time a new sample is selected.
+6.  Ensured that all the plots would be updated each time a new sample is selected.
 
 
-8.  Deployed my app to a free static page hosting service and selected Test Subject id: 1601
+7.  Deployed my app to a free static page hosting service and selected Test Subject id: 1601
 
       ![image](https://github.com/Mago281/belly-button-challenge/assets/131424690/ce542777-6e1d-4c07-a886-db47f9105726)
 
-       [Belly Button Biodiversity Dashboard](file:///C:/Users/Magdalene/Mago281/belly-button-challenge/index.html)
 
 
 
