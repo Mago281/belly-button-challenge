@@ -29,7 +29,7 @@ ________________________________________
 
       The horizontal bar chart with a dropdown menu relates to Test Subject ID: 1601
     
-        <img src="[https://github.com/Mago281/belly-button-challenge/assets/131424690/cfbcad51-a054-49c1-8e0b-64bc14b2e2b2](https://github.com/Mago281/belly-button-challenge/assets/131424690/af9dde91-e798-4767-94aa-da8ffc2a2506)" width="300" height="350">
+   <img src="https://github.com/Mago281/belly-button-challenge/assets/131424690/af9dde91-e798-4767-94aa-da8ffc2a2506" width="300" height="400" />
     
 ![image](https://github.com/Mago281/belly-button-challenge/assets/131424690/af9dde91-e798-4767-94aa-da8ffc2a2506)
 
