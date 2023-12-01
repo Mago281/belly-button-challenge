@@ -49,7 +49,7 @@ ________________________________________
     
     The sample metadata of the demographic information for Test Subject ID: 1490: 
     
-    <img src="https://github.com/Mago281/belly-button-challenge/assets/131424690/3e427278-508d-43c1-b73c-b3b3ab1ef233" width="150" height="200">
+    <img src="https://github.com/Mago281/belly-button-challenge/assets/131424690/3e427278-508d-43c1-b73c-b3b3ab1ef233" width="140" height="220">
 
    
 5.  Displayed each key-value pair from the metadata JSON object on the page
