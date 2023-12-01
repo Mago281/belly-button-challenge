@@ -41,7 +41,7 @@ ________________________________________
     
     The bubble chart below relates to Test Subject ID: 1490
     
-    <img src="https://github.com/Mago281/belly-button-challenge/assets/131424690/a9a02912-7673-4bb1-84cb-74492ee195db" width="700" height="250">
+    <img src="https://github.com/Mago281/belly-button-challenge/assets/131424690/a9a02912-7673-4bb1-84cb-74492ee195db" width="700" height="350">
 
 
 4.  Displayed the sample metadata i.e. an individual's demographic information.
