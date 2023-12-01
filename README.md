@@ -28,13 +28,10 @@ ________________________________________
       - Used `otu_labels` as the hovertext for the chart.
 
       The horizontal bar chart with a dropdown menu below relates to Test Subject ID: 1490
-    
-      <img src="https://github.com/Mago281/belly-button-challenge/assets/131424690/aba6a816-4914-4322-bbfa-f9a2b6465aa0" width="500" height="300" />
-      
+          
       ![image](https://github.com/Mago281/belly-button-challenge/assets/131424690/aba6a816-4914-4322-bbfa-f9a2b6465aa0)
 
     
-
 3.  Created a bubble chart that displayed each sample.
       - Used `otu_ids` for the x values.
       - Used `sample_values` for the y values.
