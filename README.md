@@ -27,9 +27,9 @@ ________________________________________
 
       - Used `otu_labels` as the hovertext for the chart.
 
-      The horizontal bar chart with a dropdown menu relates to Test Subject ID: 1601
+      The horizontal bar chart with a dropdown menu below relates to Test Subject ID: 1601
     
-   <img src="https://github.com/Mago281/belly-button-challenge/assets/131424690/af9dde91-e798-4767-94aa-da8ffc2a2506" width="300" height="400" />
+   <img src="https://github.com/Mago281/belly-button-challenge/assets/131424690/af9dde91-e798-4767-94aa-da8ffc2a2506" width="400" height="500" />
     
 ![image](https://github.com/Mago281/belly-button-challenge/assets/131424690/af9dde91-e798-4767-94aa-da8ffc2a2506)
 
