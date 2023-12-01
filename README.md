@@ -30,6 +30,7 @@ ________________________________________
       The horizontal bar chart with a dropdown menu below relates to Test Subject ID: 1490
 
        <img src="https://github.com/Mago281/belly-button-challenge/assets/131424690/9de24c9c-f27e-41c3-a7df-a90f0fa0cbd7" width="250" height="250">
+       
 
     
 3.  Created a bubble chart that displayed each sample.
@@ -48,7 +49,7 @@ ________________________________________
     
     The sample metadata of the demographic information for Test Subject ID: 1490: 
     
-    <img src="https://github.com/Mago281/belly-button-challenge/assets/131424690/3e427278-508d-43c1-b73c-b3b3ab1ef233" width="200" height="300">
+    <img src="https://github.com/Mago281/belly-button-challenge/assets/131424690/3e427278-508d-43c1-b73c-b3b3ab1ef233" width="180" height="250">
 
    
 5.  Displayed each key-value pair from the metadata JSON object on the page
