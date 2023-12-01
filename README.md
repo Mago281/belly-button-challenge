@@ -41,12 +41,16 @@ ________________________________________
     
     The bubble chart below relates to Test Subject ID: 1490
     
-    <img src="https://github.com/Mago281/belly-button-challenge/assets/131424690/a9a02912-7673-4bb1-84cb-74492ee195db" width="800" height="320">
+    <img src="https://github.com/Mago281/belly-button-challenge/assets/131424690/a9a02912-7673-4bb1-84cb-74492ee195db" width="500" height="320">
 
 
 4.  Displayed the sample metadata i.e. an individual's demographic information.
+    
+    The sample metadata of the demographic information for Test Subject ID: 1490: 
+    
+    <img src="https://github.com/Mago281/belly-button-challenge/assets/131424690/3e427278-508d-43c1-b73c-b3b3ab1ef233" width="800" height="320">
 
-
+   
 5.  Displayed each key-value pair from the metadata JSON object on the page
 
       <img src="https://github.com/Mago281/belly-button-challenge/assets/131424690/cfbcad51-a054-49c1-8e0b-64bc14b2e2b2" width="300" height="350">
@@ -54,10 +58,10 @@ ________________________________________
       ![image](https://github.com/Mago281/belly-button-challenge/assets/131424690/bce0f260-137b-4034-8321-a057c5859563)
 
 
-6.  Ensured that all the plots would be updated each time a new sample is selected.
+7.  Ensured that all the plots would be updated each time a new sample is selected.
 
 
-7.  Deployed my app to a free static page hosting service and selected Test Subject id: 1601
+8.  Deployed my app to a free static page hosting service and selected Test Subject id: 1601
 
       ![image](https://github.com/Mago281/belly-button-challenge/assets/131424690/ce542777-6e1d-4c07-a886-db47f9105726)
 
