@@ -27,10 +27,14 @@ ________________________________________
 
       - Used `otu_labels` as the hovertext for the chart.
 
-        <img src="https://github.com/Mago281/belly-button-challenge/assets/131424690/cfbcad51-a054-49c1-8e0b-64bc14b2e2b2" width="300" height="350">
+      The horizontal bar chart with a dropdown menu relates to Test Subject ID: 1601
+    
+        <img src="[https://github.com/Mago281/belly-button-challenge/assets/131424690/cfbcad51-a054-49c1-8e0b-64bc14b2e2b2](https://github.com/Mago281/belly-button-challenge/assets/131424690/af9dde91-e798-4767-94aa-da8ffc2a2506)" width="300" height="350">
+    
+![image](https://github.com/Mago281/belly-button-challenge/assets/131424690/af9dde91-e798-4767-94aa-da8ffc2a2506)
 
 
-3.  Created a bubble chart that displayed each sample.
+4.  Created a bubble chart that displayed each sample.
       - Used `otu_ids` for the x values.
       - Used `sample_values` for the y values.
       - Used `sample_values` for the marker size.
@@ -42,10 +46,10 @@ ________________________________________
       ![image](https://github.com/Mago281/belly-button-challenge/assets/131424690/ae1b7217-f98c-43ec-ac1f-1be3e04bce53)
 
 
-4.  Displayed the sample metadata i.e. an individual's demographic information.
+5.  Displayed the sample metadata i.e. an individual's demographic information.
 
 
-5.  Displayed each key-value pair from the metadata JSON object on the page
+6.  Displayed each key-value pair from the metadata JSON object on the page
 
       <img src="https://github.com/Mago281/belly-button-challenge/assets/131424690/cfbcad51-a054-49c1-8e0b-64bc14b2e2b2" width="300" height="350">
       
