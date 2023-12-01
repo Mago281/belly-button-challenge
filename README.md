@@ -27,23 +27,24 @@ ________________________________________
 
       - Used `otu_labels` as the hovertext for the chart.
 
-      The horizontal bar chart with a dropdown menu below relates to Test Subject ID: 1601
+      The horizontal bar chart with a dropdown menu below relates to Test Subject ID: 1490
     
       <img src="https://github.com/Mago281/belly-button-challenge/assets/131424690/af9dde91-e798-4767-94aa-da8ffc2a2506" width="500" height="300" />
     
-![image](https://github.com/Mago281/belly-button-challenge/assets/131424690/af9dde91-e798-4767-94aa-da8ffc2a2506)
 
-
-4.  Created a bubble chart that displayed each sample.
+3.  Created a bubble chart that displayed each sample.
       - Used `otu_ids` for the x values.
       - Used `sample_values` for the y values.
       - Used `sample_values` for the marker size.
       - Used `otu_ids` for the marker colors.
       - Used `otu_labels` for the text values.
-
-        <img src="https://github.com/Mago281/belly-button-challenge/assets/ae1b7217-f98c-43ec-ac1f-1be3e04bce53" width="300" height="350">
+    
+    The bubble chart below relates to Test Subject ID: 1490
+    
+    <img src="https://github.com/Mago281/belly-button-challenge/assets/131424690/a9a02912-7673-4bb1-84cb-74492ee195db" width="500" height="300">
         
-      ![image](https://github.com/Mago281/belly-button-challenge/assets/131424690/ae1b7217-f98c-43ec-ac1f-1be3e04bce53)
+      ![image](![image](https://github.com/Mago281/belly-button-challenge/assets/131424690/7289f53b-3fc5-46af-b857-4dec3ff006a2)
+)
 
 
 5.  Displayed the sample metadata i.e. an individual's demographic information.
