@@ -29,7 +29,10 @@ ________________________________________
 
       The horizontal bar chart with a dropdown menu below relates to Test Subject ID: 1490
     
-      <img src="https://github.com/Mago281/belly-button-challenge/assets/131424690/af9dde91-e798-4767-94aa-da8ffc2a2506" width="500" height="300" />
+      <img src="https://github.com/Mago281/belly-button-challenge/assets/131424690/aba6a816-4914-4322-bbfa-f9a2b6465aa0" width="500" height="300" />
+      
+      ![image](https://github.com/Mago281/belly-button-challenge/assets/131424690/aba6a816-4914-4322-bbfa-f9a2b6465aa0)
+
     
 
 3.  Created a bubble chart that displayed each sample.
@@ -53,9 +56,7 @@ ________________________________________
    
 5.  Displayed each key-value pair from the metadata JSON object on the page
 
-      <img src="https://github.com/Mago281/belly-button-challenge/assets/131424690/cfbcad51-a054-49c1-8e0b-64bc14b2e2b2" width="300" height="350">
-      
-      ![image](https://github.com/Mago281/belly-button-challenge/assets/131424690/bce0f260-137b-4034-8321-a057c5859563)
+    <img src="https://github.com/Mago281/belly-button-challenge/assets/131424690/af9dde91-e798-4767-94aa-da8ffc2a2506" width="500" height="300" />
 
 
 7.  Ensured that all the plots would be updated each time a new sample is selected.
