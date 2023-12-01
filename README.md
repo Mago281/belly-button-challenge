@@ -50,7 +50,7 @@ ________________________________________
     
     The sample metadata of the demographic information for Test Subject ID: 1490: 
     
-    <img src="https://github.com/Mago281/belly-button-challenge/assets/131424690/3e427278-508d-43c1-b73c-b3b3ab1ef233" width="250" height="320">
+    <img src="https://github.com/Mago281/belly-button-challenge/assets/131424690/3e427278-508d-43c1-b73c-b3b3ab1ef233" width="200" height="300">
 
    
 5.  Displayed each key-value pair from the metadata JSON object on the page
@@ -61,7 +61,7 @@ ________________________________________
 6.  Ensured that all the plots would be updated each time a new sample is selected.
 
 
-7.  Deployed my app to a free static page hosting service and selected Test Subject id: 1601
+7.  Deployed my app to a free static page hosting service and selected Test Subject ID: 1601
 
       ![image](https://github.com/Mago281/belly-button-challenge/assets/131424690/ce542777-6e1d-4c07-a886-db47f9105726)
 
