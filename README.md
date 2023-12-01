@@ -30,8 +30,6 @@ ________________________________________
       The horizontal bar chart with a dropdown menu below relates to Test Subject ID: 1490
 
        <img src="https://github.com/Mago281/belly-button-challenge/assets/131424690/9de24c9c-f27e-41c3-a7df-a90f0fa0cbd7" width="250" height="250">
-       
-![image](https://github.com/Mago281/belly-button-challenge/assets/131424690/9de24c9c-f27e-41c3-a7df-a90f0fa0cbd7)
 
     
 3.  Created a bubble chart that displayed each sample.
